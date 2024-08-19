@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    background-image: url(https://lh3.googleusercontent.com/drive-storage/AJQWtBMnlUb9hOIseHemNWGZ8rT9e5Frz2iHdqGK7OuBveVkTY6fVB9F2tGLWNtvlfu5BBTktqw4kVYtuHextckdpc-86d6-JXdv1oxEg-wcON-QP-U=w1920-h953);
+    background-size: cover;
+    font-family: 'Arial';
+    text-align: center;
+}
+
+#tabelinha, tr {
+s
+    border: double 2px #ffffe0;
+    height: 20px;
+    justify-content: left;
+    text-align: left;
+    width: 700px;
+    background-color: rgb(212, 212, 212);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Arial';
+    color: rgb(255, 135, 135);
+    
+}
+
+
+.tabela, td, th {
+    border: double 2px #ffffe0;
+    height: 1px;
+    width: 100;
+    text-align: center;
+    background-color: rgb(212, 212, 212);
+}
+
+hr {
+    margin: 0;
+    border: 5px solid rgb(255, 138, 138);
+}
+
+#tabelinha td {
+    text-align: left;
+}
+
+#header1 {
+    color: white;
+    font-family: 'Comic Neue';
+}
